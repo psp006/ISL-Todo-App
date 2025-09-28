@@ -22,6 +22,7 @@ You can add, edit, delete, mark tasks as done, and search tasks. Tasks are saved
 # Clone the repo
 
 git clone https://github.com/psp006/ISL-Todo-App.git
+
 cd todo-app
 
 # Install dependencies
